@@ -6,7 +6,7 @@
 
 ### 1.文档对应目录
 
-gitee上对应目录 `doc/vue电商/3.vue-项目实战day1/素材`
+
 
 ![image-20211201161503831](https://gitee.com/hliushi/pic-go_-image/raw/master/img/work/image-20211201161503831.png)
 
